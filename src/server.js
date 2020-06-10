@@ -7,7 +7,7 @@ const db = require("./database/db")
 // CONFIGURAR PASTA PÚBLICA
 server.use(express.static("public"))
 
-// HABILITAR O USO DO req.body NA NOSSA APLICAÇÃO
+// HABILITAR O USO DO req.body NA APLICAÇÃO
 server.use(express.urlencoded({ extended: true }))
 
 // UTILIZANDO TEMPLATE ENGINE
@@ -17,7 +17,7 @@ nunjucks.configure("src/views", {
     noCache: true
 })
 
-// CONFIGURAR CAMINHOS DA MINHA APLICAÇÃO
+// CONFIGURAR CAMINHOS DA APLICAÇÃO
 // PÁGINA INICIAL (req: REQUISIÇÃO, res: RESPOSTA)
 server.get("/", (req, res) => {
     return res.render("index.html")
