@@ -4,21 +4,21 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar-o-projeto">Como rodar o projeto</a>
+</p>
+
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
 ## 💻 Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
-## 🖼 Demonstração
+> Construído durante a Next Level Week #01 da [Rocketseat](https://rocketseat.com.br/)
 
-<p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
-</p>
 
 ## 🔧 Tecnologias
 
@@ -42,5 +42,3 @@ npm install
 npm start
 acessar http://localhost:3000/ no seu navegador
 ```
-
-> Projeto construído durante a Next Level Week #01 da [Rocketseat](https://rocketseat.com.br/)
