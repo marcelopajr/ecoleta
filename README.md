@@ -2,17 +2,13 @@
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
 </h1>
 
-> Projeto construído durante a Next Level Week #01 da [Rocketseat](https://rocketseat.com.br/)
-
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-  <a href="#-como-rodar-o-projeto">Como rodar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-rodar-o-projeto">Como rodar o projeto</a>
 </p>
-
-<br>
 
 ## 💻 Projeto
 
@@ -39,9 +35,12 @@ Você pode visualizar o layout do projeto através [desse link](<https://www.fig
 
 ## 🤔 Como rodar o projeto
 
-Após baixar o projeto, acesse ele via terminal e rode os comandos:
+Após baixar, acesse ele via terminal e rode os comandos:
 
 ```sh
 npm install
 npm start
+acessar http://localhost:3000/ no seu navegador
 ```
+
+> Projeto construído durante a Next Level Week #01 da [Rocketseat](https://rocketseat.com.br/)
