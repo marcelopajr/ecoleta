@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src=".github/ecoleta.gif" width="100%">
 </p>
 
 ## 💻 Projeto
@@ -40,5 +40,5 @@ Após baixar, acesse ele via terminal e rode os comandos:
 ```sh
 npm install
 npm start
-acessar http://localhost:3000/ no seu navegador
+acesse http://localhost:3000/ no seu navegador
 ```
