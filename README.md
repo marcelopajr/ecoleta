@@ -35,7 +35,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🤔 Como rodar o projeto
 
-Após baixar, acesse ele via terminal e rode os comandos:
+Após clonar, acesse ele via terminal e rode os comandos:
 
 ```sh
 npm install
