@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como rodar o projeto
 
@@ -40,5 +40,6 @@ Após baixar, acesse ele via terminal e rode os comandos:
 ```sh
 npm install
 npm start
-acesse http://localhost:3000/ no seu navegador
 ```
+
+Depois acesse [http://localhost:3000/](http://localhost:3000/) no seu navegador favorito.
